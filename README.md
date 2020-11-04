@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diggerdu)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diggerdu-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/du-xingjian-5a333266/)
+
+[![Scholar](https://img.shields.io/badge/Scholar-XingjianDu-info?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=UqBl_VMAAAAJ&hl=zh-CN)
+
