@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 [![Scholar](https://img.shields.io/badge/Scholar-XingjianDu-info?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?user=UqBl_VMAAAAJ&hl=zh-CN)
 
+
+
+*May you find your worth in the waking world.*
