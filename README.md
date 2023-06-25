@@ -1,3 +1,4 @@
+@字节跳动AILAB,长期招聘NLP方向实习生，有兴趣的朋友可将简历发送至duxingjian.real@bytedance.com
 
 ![Metrics](/github-metrics.svg)
 
