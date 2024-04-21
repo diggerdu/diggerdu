@@ -18,7 +18,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=diggerdu)](https://github.com/anuraghazra/github-readme-stats)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diggerdu-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/du-xingjian-5a333266/)
 
